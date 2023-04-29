@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676664823 source:c:\users\acer\documents\100level manual\newproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676665245 source:c:\users\acer\documents\100level manual\newproject\bmi.c
+	<stdio.h>
+
